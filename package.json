@@ -33,8 +33,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "test-components-library",
-  "author": "Javg",
+  "name": "javg-components",
+  "author": "javg",
   "module": "dist/package.esm.js",
   "size-limit": [
     {
